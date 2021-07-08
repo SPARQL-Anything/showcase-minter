@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>369</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1370</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia for 2 trumpets (G 19)</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.VII.3</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score: Key D. Allegro [3/4]-Adagio (a)[3/4, 2 Trp.tacent in a] (b)[Vln.multi stop./cont. arpegg.:key d]-Allegro [common time].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>365</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1366</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia Concertante No.14</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Corn. Fg. Bass.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:KA Mus.Ms.317</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Marked a sinfonia concertante: key D. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>376</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1377</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1734</literal>
+      </binding>
+      <binding name="title">
+        <literal>Introduzione 'Enone'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.18224</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score: key C. Allegro assai-Largo e staccato [Str.only/key a]-Allegro assai. Ded. to Cristina on birthday. Libretto by Apostolo Zeno.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>368</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1369</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1726</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata con 2 trombe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Mus.Sup.3740</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: 13 parts. Allegro-Largo [key d: Trp.tacet] - Allegro. Also, full score version: auth. unspec.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>382</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1383</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia in C</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb Mus.2170/N-1</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>folios 1-27. In 3 mvts.:Allegro-Andante staccato [Str. only] Allegro [3/8].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>379</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1380</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1718</literal>
+      </binding>
+      <binding name="title">
+        <literal>"Iphigenia in Aulide"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Cl. Trp. Timp. Str. Cont. (Fg. Ob.)</literal>
+      </binding>
+      <binding name="source">
+        <literal>B:Bc W.2048</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia/Aria</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Also extant: A:Wn Cod.18255. Selections consist of Sinfonias and Achilles' aria Act 1. Sc.2 [Key C] and the Licenza aria [p.187-191 with choral middle section].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>378</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1379</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1726</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria with trumpets</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Gd Mss.A382</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Also ms. in A:Wn Cod.15903. Key C. Aria from "I due dittatori" for alto: "Nulla bada destrier generoso". Da capo form.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>381</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1382</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1726</literal>
+      </binding>
+      <binding name="title">
+        <literal>"I due dittatori" Act III/4-5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.15903</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>See A1379. Aria in C of Quinto Fabio and Sc.5 Aria "Il suon delle trombe": key C./Sinfonia in C for 2 brass groups.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>370</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1371</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1698</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto Op.6 No.1</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Vln. Vla. Vcl. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.S.854 (1951)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A realisation by Piccioli, G. Key G. Allegro/Adagio (2 mvts.)-Andantino-Adagio [3 sect./key e]-Allegro [6/8]. First mod. ed. of the "Concerti Musicali" op. 5 (12 works).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>371</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1372</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1698</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto Op.6 No.10</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Archiv. No. 70</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key d. Adagio-Allegro-Largo-Presto (with adagio close)[sonata da chiesa format].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>364</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1365</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>3 Concerti No.33, 35, 5 with Trp.</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:KA Mus.Ms.331/333/303</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>No.33: key D - 3 mvt./No.35: key D - 3 mvt./No.5: key D - 3 mvt. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>363</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1364</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CHARPENTIER, M A</literal>
+      </binding>
+      <binding name="date">
+        <literal>17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>March and Air</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Fl. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Incidental</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The Marche de Triomphe is a rondeau with 2 trios: key D. The Air is "Second air de trompettes", also rondeau + 2 trios.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>372</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1373</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VIVALDI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto for 2 trumpets [RV537]</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>pp.198 - 205 in ms. Full score: key C. Allegro-Largo [2 Trp. tacent/ 1/2 close in G] - Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>377</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1378</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1723</literal>
+      </binding>
+      <binding name="title">
+        <literal>Introduzione "La Concordia"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont. (Ob. Fg.)</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17138</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score: full title "La Concordia dei Pianeti",ded. to name of Empress Cristina. Libretto by Pariati.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>374</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1375</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1736</literal>
+      </binding>
+      <binding name="title">
+        <literal>Introduzione to Ciro Riconosciuto</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x Trp. + Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17177</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score: key C. Ded. to Empress Cristina on her birthday. Libretto by Metastasio. Allegro/adagio-Allegro. [both choirs unison].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>373</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1374</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1732</literal>
+      </binding>
+      <binding name="title">
+        <literal>Introduzione to Adriano in Siria</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x Trp. + Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17162</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score version. Key C (1 mvt.). Remarkable Vlc. solo passage. Also extant: D: B Mus.MS. 2770/1.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>366</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1367</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PREDIERI, L A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1740</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Pace una volta"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17959</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria (opera)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Soprano aria from "Zenobia" for clarino solo, Act III Sc.5.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>375</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1376</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1736</literal>
+      </binding>
+      <binding name="title">
+        <literal>Introduzione to Achille in Sciro</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x Trp.+Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17179</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score: key C. Allegro-Aria [Trp.Timp.tacent: key c]- Allegro(3/8) - Ded. to nuptials of Maria Theresia and Francesco III.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>367</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1368</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Trumpet Sonata (G 1)</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.V.10</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Multi-sect.: Allegro/adagio [Trp. tacet]- Allegro - Grave (3/4) - Allegro: key D.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=19,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>380</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1381</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1717</literal>
+      </binding>
+      <binding name="title">
+        <literal>Introduzione "Coriolanus"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:B Mus.Ms.2769</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full title "Cajo Marzio Coriolano". Also extant A:Wn Cod.18232. Key C: Ob. are spec./Allegro - adagio close.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

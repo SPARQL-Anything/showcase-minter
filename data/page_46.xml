@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>920</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4068</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HABERMANN, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Coeli gentes</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D [2 clarini in D].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>903</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4051</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>l18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concertino</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Vln. Mand. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>H:Bn 2.551</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. A tempo [2/4]-Andante-Minuet-Allegro finale. Mand. = mandora/ mandoline.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>915</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4063</literal>
+      </binding>
+      <binding name="composer">
+        <literal>REICHENAUER, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Motet Pro Defunctis</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key Bb: Motet for the dead.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>909</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4057</literal>
+      </binding>
+      <binding name="composer">
+        <literal>JACOB, W</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Psalmi Vespertini, Te Deum</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. 4 voci.</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From Das Erbe Deutscher Musik [in CS area ie.Sudeten/Bohemia/Moravia] -German masters at Prague. Fac. of orig. title p. given. 2 Trp.in Eb.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>904</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4052</literal>
+      </binding>
+      <binding name="composer">
+        <literal>POLLAROLI, C F</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>"Gl'Inganni Felici"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl 170042</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Opera complete in modern hand [London/1911 Willemsen]. 243pp.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>914</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4062</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BRENTNER, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>4 motets Pro Defunctis</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Keys Bb/d/a/F: motets for the dead. The titles are (1)"O Jesu mein" (2) "Himmelssonne" (3)"Sag an" (4) "Jesu, du mein Treuer Hirt".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>911</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4059</literal>
+      </binding>
+      <binding name="composer">
+        <literal>GAYER, Ch</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Regina Coeli, Requiem</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Pos./Str. Cont. SSATB/SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>(1) Key A: from Erbe Deutsche Meister (in Prague). (2) Key c: from same collection.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>908</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4056</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TUMA, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1763</literal>
+      </binding>
+      <binding name="title">
+        <literal>2 Lytaniae</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn 15692</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. In 26 parts. Dedicated to the Madonna (Holy Mother).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>906</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4054</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TUMA, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1743</literal>
+      </binding>
+      <binding name="title">
+        <literal>Dixit Dominus</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont. 4 voci.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.15679</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>26 parts: key C. Voices are solo/ripieno.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>910</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4058</literal>
+      </binding>
+      <binding name="composer">
+        <literal>WENZEL, N F X</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Salve Regina</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Pos. Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key f.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>907</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4055</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TUMA, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1753</literal>
+      </binding>
+      <binding name="title">
+        <literal>Dixit Dominus</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Pos. Str. Cont. 4 voci.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.15680</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. In 37 parts.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>913</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4061</literal>
+      </binding>
+      <binding name="composer">
+        <literal>JACOB, W</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Beati, qui habitant</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: for church dedications.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>921</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4069</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BRIXI</literal>
+      </binding>
+      <binding name="date">
+        <literal>1723</literal>
+      </binding>
+      <binding name="title">
+        <literal>Regina Coeli</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont. 4 vci.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:Ppp iiiB 44c</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: the brass consist of clarini, litui, Trp./Pos. [Lituus = old Roman-Etruscan brass instr. curled end: distinct from Trp. &amp; Horn].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>918</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4066</literal>
+      </binding>
+      <binding name="composer">
+        <literal>REICHENAUER, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Offertory "Coronata est hodie"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key A [N.B. clarini in A]: motet for the holy martyr.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>916</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4064</literal>
+      </binding>
+      <binding name="composer">
+        <literal>REICHENAUER, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Offertory "Vulnerasti cor meum"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: offertory to the Virgin.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>912</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4060</literal>
+      </binding>
+      <binding name="composer">
+        <literal>JACOB, W</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Tenebrae triplex</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. SSAB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key Eb: from Erbe Deutscher Musik.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>905</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4053</literal>
+      </binding>
+      <binding name="composer">
+        <literal>POLLAROLI, C F</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>"Giulo Cesare nell'Egito"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>I:p.1-68/14 sec. Trp. in Sinfonia. II:Act II wanting in ms: only Act III to hand. Trp. part in Sc.7 [martial combat].Sc.14. 2 Trp.+2 Ob.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>917</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4065</literal>
+      </binding>
+      <binding name="composer">
+        <literal>REICHENAUER, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Offertory "In omnem terram"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key Bb: motet for the holy apostles.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>902</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4050</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALBRECHTSBERGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1769-71</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto pour la mandora</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Vln. Mand. Kl. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>H:Bn Ms.Mus.2.552</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key E. Allegro-Adagio [A]-Minuet-Finale. Mand. = mandora/mandoline.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=46,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>919</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4067</literal>
+      </binding>
+      <binding name="composer">
+        <literal>REICHNAUER, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Offertory "Hie est servus"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>E.D.M.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key G [N.B. clarini in G]: motet to the confessor.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

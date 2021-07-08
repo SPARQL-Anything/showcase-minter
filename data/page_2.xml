@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>32</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1032</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FASCH, J F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>3 Trp. Timp. 2 Corn. 2 Ob. Fag. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb 2423 l n/28</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Orchestral suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Brass and timp. tacet in Andante.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>36</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1036</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PEZEL, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>"Singet dem Herrn ein neues Leid"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. Timp. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Bds.Ms.16900, No.8</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Following this in ms. is a Cantata for the XIII after Trinity No.1684 "Meine Seufzer, Meine Klagen". SdH opens with an instrumental sonata. See A3011.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>28</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1028</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALCOCK, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Voluntaries</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Org.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Trumpet voluntaries in 2 parts.</literal>
+      </binding>
+      <binding name="notes">
+        <literal>These voluntaries, Nos.1, 6 and 9, use special trumpet and echo stops.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>22</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1022</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RIEPEL, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. 2 Corn. 2 Fl. 2(?)Vln. Vla. Bass. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec. (but see Addinf)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Solo concerto for clarino trumpet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The Trp. plays only in solo accompanied episodes and never in ripieno groupings. In 3 mvt. form: Allegro non troppo, Adagio, Presto. Source probably at US:Wc.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>30</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1030</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1776</literal>
+      </binding>
+      <binding name="title">
+        <literal>Messa a 5 Voci</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. 5 part Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.18940</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Vocal mass</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Vocal parts scored: S S A T B. 2 Trp. used in "Dominus Deus, Rex coelestis"</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>29</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1029</literal>
+      </binding>
+      <binding name="composer">
+        <literal>JACCHINI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1695</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. 2 Vln. Vla. Vlc. Pos. Bass. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp. D.12.7</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata in 9 parts</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A full score transcription made by Minter in 14.2.81.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>37</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1037</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1679</literal>
+      </binding>
+      <binding name="title">
+        <literal>Beatus Vir</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>9 voci. Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn 15.543</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Cantata - motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This is for double choir and solo soprano, bass. This should be classed as a motet.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>35</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1035</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ZELENKA, G D</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Laudate Pueri</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ten.solo. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb Mus.2358 l D/67</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This is in full score.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>26</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1026</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANTONII, P degli</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Date Lilia"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp./Vln. Vlc. Bass. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Bass arias</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This work in Latin might be dedicated to one or more holy virgins or martyrs. Recitatives intersperse the 3 arias.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>34</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1034</literal>
+      </binding>
+      <binding name="composer">
+        <literal>J M F [sic.]</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto a 6</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vln. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:ROmi XVIII. 66. 38 [Ex Bibliotheca Academiae Rostockiensis DDR]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The Vln. is marked concertino.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>38</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1038</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Confitebor</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>SSAB, AB soli. Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod. [18824]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Cantata - motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This is in D major (F sharp only as key-signature). Trp. tacet in 2nd [B minor] section of opening mvt. It has arioso recitative (secco).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>24</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1024</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ARNE, T</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Trumpet Song</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. 2 Ob. 2 Vln. Vl. Bass. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Acc. aria with obbligato Trp. and Timp.</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This trumpet song is from "The Prophetess".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>39</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1039</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1676</literal>
+      </binding>
+      <binding name="title">
+        <literal>Laudate Pueri</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>SATB, Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.15543</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Refer to A1035 for another LP. There is detailed figuring of bass in the second section with its suspensions and sequences.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>33</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1033</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FASCH, J F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>3 Trp. Timp. 2 Corn. 2 Ob. Fag. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb 2423 l N/40</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Orchestral Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Traverse Fl. in place of Ob. in the Air.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>27</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1027</literal>
+      </binding>
+      <binding name="composer">
+        <literal>KERN, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1669</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 9</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. 2 Vln. 3 Vla. 3 Pos.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa. IV.49</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata with solo clarino</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A 3 mvt. sonata. The first mvt. alternates tempi.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>21</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1021</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ECCLES, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Symphony</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. Timp. 2(?) Vln. Vla. Bass. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Symphony in 2 sections</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Originally on pp.96-102 of a bound volume.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>40</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1040</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1688</literal>
+      </binding>
+      <binding name="title">
+        <literal>Motetto a 5 voci</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>SSATB, Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod. 16781</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Given in full score i.e. senza parti in ms. The opening line reads:"Plectra lyras [? voces], plaudite, canite, promite ad sideras".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>23</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1023</literal>
+      </binding>
+      <binding name="composer">
+        <literal>MOZART, W A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1773</literal>
+      </binding>
+      <binding name="title">
+        <literal>Divertimento No.6 K.188 (K.240b)</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Fl. 5 Trp. Timp (4 in CGDA)</literal>
+      </binding>
+      <binding name="source">
+        <literal>1880 Peters (W.A.M.188)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>6 pieces forming a divertimento</literal>
+      </binding>
+      <binding name="notes">
+        <literal>All 6 pieces are in C.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>25</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1025</literal>
+      </binding>
+      <binding name="composer">
+        <literal>MANCINI, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1705</literal>
+      </binding>
+      <binding name="title">
+        <literal>Symphony and Aria</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vln. Vla. Bass. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Mc Ms Noseda G.10</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera (part) "Gl' Amanti Generosi"</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The selections consist of: The Sinfonia, a staccato Adagio, Minuet.The aria forms scene XIII, "Empia stella nemica e rubella".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=2,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>31</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1031</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1729</literal>
+      </binding>
+      <binding name="title">
+        <literal>Missa Clementiae</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp.solo. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.15899</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Vocal mass</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Pos. are indicated to double Vla.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

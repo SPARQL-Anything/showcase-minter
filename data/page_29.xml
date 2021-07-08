@@ -1,0 +1,625 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>565</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1566</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1732</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Acis &amp; Galatea"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>H.W.53</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Form = da capo, Bass Aria pp.11-15.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>569</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1570</literal>
+      </binding>
+      <binding name="composer">
+        <literal>JANNEQUIN, C</literal>
+      </binding>
+      <binding name="date">
+        <literal>16C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Part-song 'Martin'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>S1/2. A.B.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Chanson</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key (mode) g: suggested setting for 2 Trp. Alto + Bass Pos.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>581</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1582</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1713</literal>
+      </binding>
+      <binding name="title">
+        <literal>Jubilate</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>H.W.31</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Chorus (anthem)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: solo and chorus, pp.46-49. from Utrecht Te Deum &amp; Jubilate.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>579</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1580</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCARLATTI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>7 Arias</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. S. solo. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria</literal>
+      </binding>
+      <binding name="notes">
+        <literal>All arias: key D: No.6 in form of French minuet: pp.1-32 of mod. format (2 systems per page orig.).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>566</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1567</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1746</literal>
+      </binding>
+      <binding name="title">
+        <literal>Chorus "Sing unto the Lord"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>H.W.22</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Chorus from "Judas Maccabaeus": Trp. play after solo/ with chorus: pp.190-197.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>572</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1573</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BONONCINI, G B</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Vanne Abbatti"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. S. solo</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: bars 46 [da capo at 30]. From D Smithers collection.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>573</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1574</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CROFT, W</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Voluntary No.3</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Org. [trp. stop]</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Add.5336</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Voluntary</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. Attrib. to W Croft from "A set of 12 voluntaries".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>580</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1581</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PURCELL, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>1690</literal>
+      </binding>
+      <binding name="title">
+        <literal>"Dioclesian" Suite [Z627]</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Nov. 10570</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Masque</literal>
+      </binding>
+      <binding name="notes">
+        <literal>First Music [key C]: Act 2 Tune [key C]-Dance of Furies [key C]: Act 3 Chaconne [c]-Butterfly + Chair Dance [C].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>578</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1579</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1750</literal>
+      </binding>
+      <binding name="title">
+        <literal>Grand Entree "Alceste"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>H.W.46B</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Maestoso (binary form).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>567</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1568</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1746</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "With honour let"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont. T. solo</literal>
+      </binding>
+      <binding name="source">
+        <literal>H.W.22</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key a. Judas Maccaeus's own aria, pp.199-203.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>576</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1577</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ZACHOW, F W</literal>
+      </binding>
+      <binding name="date">
+        <literal>17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Cantata of Annunciation</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. Coro. Soli.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D.D.T.XXI.XXII</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Cantata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Cantata "Ich will mich mit dir verloben": Chorus-Aria 1 (vs.1)-II (vs.2)-II (vs.3)-I (vs.4)-Chorus (da capo)(palindromic arrangement).A1578</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>563</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1564</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PURCELL, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>1694</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture "Come Ye Sons of Art" [Z323]</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Novello 15044</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Ode</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Largo-Allegro [with double imit. subj.]-Adagio [Trp. tacet/key b]-Minuet (marked Ritornello in score).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>575</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1576</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Balletto I</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Str. Cont. S.A.T.B.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wdto XVII</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Incidental</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key G: marked "coro di salii, che si balla": lma vta. with repeats/2da vta. without.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>564</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1565</literal>
+      </binding>
+      <binding name="composer">
+        <literal>MYSLIVECEK, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Notturno</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Cl. Corn. Str. 2 Soli.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:Rkp. 2 Konce 18. stol. No. 114 [Mss. at end of 18C]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Duet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key C. Form - da capo.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>571</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1572</literal>
+      </binding>
+      <binding name="composer">
+        <literal>WERNER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture "Daniel"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec. 7 1744</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Overture (French = Adagioso-Allegro without repeats): key d: bars 9 + 38 [47].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>568</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1569</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COPERARIO, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>2 Suites</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Vln. Bass viol. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>S &amp; B 5309</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Suite No.1 (98 a-d: key C: Fantasia-Alman-Ayre). Suite No.2 (99 a-c): key d: Fantasia-Alman-Ayre.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>574</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1575</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PEZEL, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1670</literal>
+      </binding>
+      <binding name="title">
+        <literal>Turm sonata</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Ctt. 3 Pos.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Pub. Leipzig: Adagio [binary form]: key e. Ref. "Hora Decima" set of sonatas.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>577</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1578</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PURCELL, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Suite "Timon of Athens" [Z632]</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Nov. 5686</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Masque</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Version in key D for Trp. comprises Overture-Adagio [d]-Allegro. Trp. tacet in adagio. Ed. notes on copy.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=29,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>582</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1583</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BARRET, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1790</literal>
+      </binding>
+      <binding name="title">
+        <literal>Voluntary with cornet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Org.</literal>
+      </binding>
+      <binding name="source">
+        <literal>* R.M.9.i.20/1-7</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Voluntary</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Attribution on ms. evid. to Barrett.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

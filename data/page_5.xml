@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>91</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1091</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VISMARI, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1680</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Vla. Pos. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 194</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A multi-section fantasia. Trans. Bohumir Koukal 28.x.[ ] Olomouc.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>85</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1085</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, J H</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 106</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The second copy is a modern full score edition by Minter.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>84</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1084</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, J H</literal>
+      </binding>
+      <binding name="date">
+        <literal>1679</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 105</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This sonata is marked as suitable for Chiesa or Camera.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>97</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1097</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RAMEAU, J-P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1739</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ballet music to "Les Fetes d'Hebe"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Broude Bros. N.Y.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Incidental music</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Overture, Reprise/Air tendre (Sc.5), Pour le genie de Mars, La Victoire, Rigaudon I and II, L'Hymen, Chaconne (Pas de Cinq).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>96</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1096</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HERTEL, J W</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Trumpet Concerto</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp.solo. Vln. Vla. Bass (opt. Cont.)</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Johann Wilhelm Hertel 1727-1789. 3 mvts.: last is a minuet-like rondo, solo trp. playing only in the episodes.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>86</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1086</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BERTALI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1662</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata Leopaldi a 14</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 111</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Multi-sectional form in later mvt.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>99</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1099</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TELEMANN, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Sikorski Pub. Hamburg</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite (orch.)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Consists of: Overture [French], Minuet I and II, Gavotte [en rondeau] Passacaille [ 8 bar ground], Air, Les Postillons, Fanfare [Gigue].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>101</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1101</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Organ Voluntaries I/IV/IX</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Org.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl [ ]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Voluntary</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Attributions have been made without any certainty: early 18C English.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>98</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1098</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PURCELL, D</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Airs and Sonata with trumpet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Incidental music</literal>
+      </binding>
+      <binding name="notes">
+        <literal>These 3 airs and Sonata are from 'The Grove': "Cease your am'rous Pipes", Sonata, "Hark what dreadful notes", "Thro' wandering worlds".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>90</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1090</literal>
+      </binding>
+      <binding name="composer">
+        <literal>LEOPOLD I</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata Ressurrectionis a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 189</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Leopold I is indicated in the orig. ms. as C[esare] m[aestat].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>100</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1100</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHEIDT, S</literal>
+      </binding>
+      <binding name="date">
+        <literal>e17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Courante a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. 3 Pos. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>S.Sch.III</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Dance</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A binary dance mvt.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>92</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1092</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>1670</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>5 Trp. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 208</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>4 mvt. fantasia form. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>88</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1088</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, J H</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata Natalis</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 149</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>6 Trp. and Timp. play against the Str. group in a marked festive manner.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>87</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1087</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 4</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. 2 Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 121</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The two sets of treble instr. are treated antiphonally throughout. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>89</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1089</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 6</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 173</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Multi-section with frequent alternations of quick and slow. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>95</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1095</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALBERTINI</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 10</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Fg. Timp. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV 235b</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Albertini was Capellmeister at the Catholic Church of Olomouc. A sonata da camera (suite).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>93</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1093</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, J H</literal>
+      </binding>
+      <binding name="date">
+        <literal>1669</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 4</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Pos. Fg. Trp. Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 213</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The second copy is Minter's full score transcription. The title reads - sonata a 4 detta la Carolietta.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>94</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1094</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VEJVANOVSKY, P J</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Balletti a 7</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV 123/153</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Instr. grouped into two choirs, playing antiphonally. Consists of an introductory sonatina (sinfonia) and an allemande.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>82</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1082</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in Eb</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:RO mi Mus.Saec.XVII 1</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>See A1078 for possible source. With the additional mvts. at the end it approaches the later suite form (sonata da camera). Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=5,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>83</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1083</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, J H</literal>
+      </binding>
+      <binding name="date">
+        <literal>1672</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonate con Arie</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. Timp.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wdto XXVII 56</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. to A1075/CS: KRa IV 5. A sonata da camera (suite).</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

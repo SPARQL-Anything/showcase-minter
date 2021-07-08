@@ -1,0 +1,593 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>883</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4031</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Balletti a 7</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. 2 Pos. Vln. 2 Vla. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV.140</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Dance Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. Sonatina [6/4]-Allemanda [C time]. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>882</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4030</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Balletti a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV.134</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Dance suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. A5041. Key C. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>885</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4033</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VEJVANOVSKY, P</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Intrada for 2 trumpets</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa [ ]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. In 3 sections: all in triple time.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>884</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4032</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>1670</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 5 clarini</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.208</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. 4 section work: C time - 3 - C time - 3 [sonata da chiesa].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>893</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4041</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BRUCKNER, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 4</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>4 Ctt./Vln.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key a. 3 sections: C - 3/2 - C.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>890</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4038</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata da Caccia con un Corno</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Corn. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.81</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Corn.= corno da caccia. Mvts." C [Corn. tacet]-6/4 "Allegro"-C [Corn. tacet]-C + 6/4 "Allegro"-C[Corn. tacet]. Key C.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>886</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4034</literal>
+      </binding>
+      <binding name="composer">
+        <literal>LEOPOLD I</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata Resurrectionis a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.189</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Leopold I is indic. as C[esare] M[aestat].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>889</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4037</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>1664</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.98</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>In 7 parts: 2 clarini, 2 Vln. 3 Trp. Timp.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>901</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4049</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALBRECHTSBERGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1769-71</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Vln. Mand. Kl. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>H:Bn Ms.Mus.2.553</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key F. Man. = mandora/mandoline.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>887</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4035</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.160</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. Allegro [3/2]-Adagio [C]-Allegro [C]-[6/4]. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>892</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4040</literal>
+      </binding>
+      <binding name="composer">
+        <literal>KERZINGER, D A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1676</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 12</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. C time - 3/2 - C [marked adagio].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>896</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4044</literal>
+      </binding>
+      <binding name="composer">
+        <literal>LEOPOLD I</literal>
+      </binding>
+      <binding name="date">
+        <literal>1660</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonatina a 3</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp./Vln. 2 Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonatina</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. C time - 3 C - 3 [Sonata da chiesa form].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>899</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4047</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Mummum a 6</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.36/2</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Madrigal</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Instr. version of a madrigal [Sonata No.2].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>897</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4045</literal>
+      </binding>
+      <binding name="composer">
+        <literal>LEOPOLD I</literal>
+      </binding>
+      <binding name="date">
+        <literal>1660</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 3</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. 2 Vln.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.42</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>See A5044 [mfilm sequence and attribution not clear].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>898</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4046</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonatina</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.41</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonatina</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. Mvts.: C - 3/2 [2 sections].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>900</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4048</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 6</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.36/1</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Sonata paired with "mummum" of IV.36/2.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>891</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4039</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata con tubis in pleno</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.77</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. 2 broad sections: [C time]-sequences of suspensions - 3/2.For clarino/cornetto, 3 Trp. 2 Vln, 3 Vla. Cont. [violone ed organo]. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=45,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>894</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4042</literal>
+      </binding>
+      <binding name="composer">
+        <literal>LEOPOLD I</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 7 (Mayalis)</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. Adagio [C]-Allegro [3/2]-Allegro [C]-Adagio [6/4]. Note on adaptation as a sonata da chiesa [in Latin].</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

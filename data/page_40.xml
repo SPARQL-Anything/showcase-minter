@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>794</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1794</literal>
+      </binding>
+      <binding name="composer">
+        <literal>GRAUN, C H</literal>
+      </binding>
+      <binding name="date">
+        <literal>1732</literal>
+      </binding>
+      <binding name="title">
+        <literal>Symphonia "Scipio Africanus"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Vln./Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn</literal>
+      </binding>
+      <binding name="genre">
+        <literal>opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score; key D. Allegro-Larghetto [Vln. + 2 Fl.]-Allegro. A German-language opera.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>786</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1786</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ARNE, T</literal>
+      </binding>
+      <binding name="date">
+        <literal>1758</literal>
+      </binding>
+      <binding name="title">
+        <literal>Trumpet Song "The Prophetess"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. "Sound aloud triumphant Fame".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>802</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1802</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PAISIBLE, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Suite in D Major</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D: Prelude-Menuet. Gavotte-Gigue.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>799</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1799</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, J H</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Serenata con altre arie</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Vln. 2 Vla. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D.t.O. XXVIII.56</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key d.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>801</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1801</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TELEMANN, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria No.2 "Die Tageszeiten"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. in F</literal>
+      </binding>
+      <binding name="source">
+        <literal>D.D.T.xxviii (1907)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Cantata (secular)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>1 part available [Kurz trompete in Fa]: key G.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>798</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1798</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHWARZKOPF, T</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ouverture a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Ro Mus.Saec.XVIII.58/10</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key C. Overture [French]-Bouree-Menuet-Chaconne-Gigue.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>795</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1795</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata "Welcome to the Choir of heav'n"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp./Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Ob Mus.c.6</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Ode</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score [incomplete]: key C. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>789</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1789</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ZIANI, P A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1679</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Il Candaule"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Allegro-Grave [Trp. tacet]-Andante.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>790</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1790</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Suite in c minor</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Omc</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key c. Attrib. to Finger. Slow Prelude-Allegro-Slow Air-Jigg-[sonata da chiesa pattern].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>783</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1783</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Corn. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb 2423/n-28</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: Key D. French overture: Grave-Allegro-Andante-Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>785</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1785</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 3</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Vl. 1+2 Vla./Pos. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key G. Marked: (Pastorale). Allegro [C]-Allegro [3/1].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>788</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1788</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Oboe solo</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Vla. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.X.15</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. Single binary mvt.: "vivace".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>784</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1784</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ARNOLD, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1652</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonada a 4/8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Timp.</literal>
+      </binding>
+      <binding name="source">
+        <literal>M.R.2044 (1980)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. This M.R. copy has been heavily annotated for republication. Minter's notes incl.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>793</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1793</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Messa a 5"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn 18940</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Mass</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Adagio-Allegro-Adagio.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>787</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1787</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCARLATTI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1702</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Il Flavio Cuniberto"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Cont. S. solo</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Och</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D: "Mi sueglia la tromba".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>796</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1796</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>A trumpet piece</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Org.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl 25.mv.99</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture (French)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. Vivace-Adagio [cadenza "ad libitum"]-Minuet.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>791</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1791</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BLOW, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>2 Overtures</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Ode</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. (1) pp.105-109 (47) (2) pp.137-138 (62).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>792</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1792</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FECKLER, J P</literal>
+      </binding>
+      <binding name="date">
+        <literal>n.d.</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Applauso Poetico"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Cont. A. solo</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Da capo Aria of Fama "Volero". Not listed in New Grove.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>800</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1800</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HERTEL, J W</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. [Str. Cont.]</literal>
+      </binding>
+      <binding name="source">
+        <literal>Noetzel Pub. 3146</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>1 part only [Trp. in D]. Allegro-Cantabile [Trp. tacet]-Plaisanterie-Duetto [Trp. tacet]--Menuet [Trp. tacet in Trio].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=40,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>797</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1797</literal>
+      </binding>
+      <binding name="composer">
+        <literal>GLETLE, J M</literal>
+      </binding>
+      <binding name="date">
+        <literal>1675</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonatas Op.IV No.18/19</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. Cont. (o 2 Vln.)</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Sonata 18 "Marina": 19 "Olympia". For use as Tafelmusik.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

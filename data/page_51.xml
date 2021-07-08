@@ -1,0 +1,561 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1019</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5019</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 6</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.159</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>In 4 sections: 3/2 - C time - 3/2 - C: key C. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1008</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5008</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALBERTINI, T</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 10</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV.2356</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata da camera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Suite: key C. Sonata, Arie, Borea, Menuet, Chaconne. The sonata mvt. in slow [C]-quick [3/2]-slow [C] pattern (French overture).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1016</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5016</literal>
+      </binding>
+      <binding name="composer">
+        <literal>KERZINGER, R P A</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 9</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.24</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. A1069. Key C: Allegro [C - 3/2].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1011</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5011</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALBERTINI, T</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Entree a 10</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV.235a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. Entree-2 Arie-2 Gavotte-1 Borree-2 Menuet-Passacaglia-Ciaconne - various instr. groupings used esp. in altern. mvts.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1015</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5015</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata Natalis</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.149</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Brass and strings grouped in 2 choirs. Key C.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1006</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5006</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RITTLER, P Ph I</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 18</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.122</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Pieces with parts marked 'clarino' and 'trombe'.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1009</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5009</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BIBER, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Balletti a 6</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV.241</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Set of dance mvts. for creation of suite ad lib. Key C. Sonata - Allamanda + Amener [Trp. tacet] - Aria - Balletto [G] + Trezza [G] + Gavotte [e] [Trp. tacent] - Canario - Amoresca [a] + Sarabanda [a] + Gagliarda [F] [Trp. tacent] - Ciaccona.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1014</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5014</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RITTLER, P Ph I</literal>
+      </binding>
+      <binding name="date">
+        <literal>1776</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 17</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.125</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata da chiesa</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: Adagio-Allegro [C time]-Adagio [C time: Trp./Timp. tacent/2nd half solo Vln. bravura]-Allegro [3/2].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1012</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5012</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RITTLER, P Ph I</literal>
+      </binding>
+      <binding name="date">
+        <literal>1678</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ciaccona a 7</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV.119</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Chaconne</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key c. On a ground bass of 4 bars, repeated 36 times.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1010</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5010</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>1670</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 7</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ctti. Trp. Pos. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.99</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. Sectional: 3 - C [F-C] - 3. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1017</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5017</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FLIXIUS, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 9</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.12</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. A1079.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1013</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5013</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BERNKOPF, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata Primo -</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa 76</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: 3 sections, alternating duple and triple times.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1022</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5022</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RITTLER, P Ph I</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Balletti a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV.126</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: Key C. Sonata - Allemande - Courante - Sarabande - Gavotte - Guige (sic).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1007</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5007</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, D H</literal>
+      </binding>
+      <binding name="date">
+        <literal>1677</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata con 3bus Vlnis</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>3 Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa No.10</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Allegro [2/2] - Adagio [key b: 2/2] - Allegro [3/2].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1018</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5018</literal>
+      </binding>
+      <binding name="composer">
+        <literal>POGLIETTI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vln. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.19</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. A1077.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1021</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5021</literal>
+      </binding>
+      <binding name="composer">
+        <literal>POGLIETTI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 3</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ctt. Fl. Fg. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.191</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Marked 'Symphonia'. In old sectional fantasia form: C time - 6/4 - C time - 6/4 - C time - 3/2, but embryonic sonata da chiesa design.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=51,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1004</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5004</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TARR, E D</literal>
+      </binding>
+      <binding name="date">
+        <literal>1978</literal>
+      </binding>
+      <binding name="title">
+        <literal>Trumpet in Italian Opera C17</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Solo</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Article/book</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Collection of Trp. music of baroque illustr. tessitura (partials + extra harmonic pitches) and dev. of style.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

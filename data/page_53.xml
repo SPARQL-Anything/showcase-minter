@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=53,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1045</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5045</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RITTLER, P Ph J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1675</literal>
+      </binding>
+      <binding name="title">
+        <literal>Balletti a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa No.138</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. Sonata - Allemande - Courante - Sarabande - Gavotte - Gigue.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=53,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1044</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5044</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, D H</literal>
+      </binding>
+      <binding name="date">
+        <literal>1679</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.105</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: a sonata per chiesa e per camera.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=53,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1043</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5043</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BERTALI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1662</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata Sti. Leopoldi a 14</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.111</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: parts for 15. Mvt. in 4 sections: C time - 3/2 - 6/4 Presto - C time.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

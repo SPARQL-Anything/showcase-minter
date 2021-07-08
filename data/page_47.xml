@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>933</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4081</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PURCELL, D</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for trumpet/oboe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp./Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.9</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. C time [Allegro] - C time [Adagio] - 6/8 [Presto 'gigue'].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>930</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4078</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PURCELL, D</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for trumpet or oboe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp./Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.12</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key C. Allegro [C time] - Adagio [C time] - Presto [3/8].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>923</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4071</literal>
+      </binding>
+      <binding name="composer">
+        <literal>GEMINIANI</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1756</literal>
+      </binding>
+      <binding name="title">
+        <literal>The Inchanted Forest</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Fl. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl R.M.17.a.3 (7/10)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Orig. parts: in 2 parts/1st with Corni/2nd with Trp.+Corni. .</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>938</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4086</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for trumpet and oboe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Vln. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.4</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key C. Sections: C time - C time [key a] - 3/4 - 3/2 - C time [Adagio - Allegro].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>932</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4080</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PAISIBLE, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for 2 trumpets/oboes</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp./Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.10</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. Allegro [C time] - Adagio [C] - 6/4 [Allegro].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>926</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4074</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Chaconne in G</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.17</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Chaconne</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key G.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>929</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4077</literal>
+      </binding>
+      <binding name="composer">
+        <literal>DUPAR</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for 2 violins</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.13</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key G. Adagio - Presto - 3/4 [minuet] i.e. French overture design. Ref. microfilm for detail on biography/ID.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>927</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4075</literal>
+      </binding>
+      <binding name="composer">
+        <literal>DUPAR</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for Hautboy</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.15</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key d. 3 sections: Allegro [C] + Adagio + Allegro [no metre changes] - 3/4 - 12/8. Ref. notes on microfilm.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>939</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4087</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for 2 trumpets</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. 2 Ob. 2 Vln. Bass. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.3</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. Sections: C time - 3 time [3/4] - C + 3/2 [key d] - 6/8.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>925</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4073</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ECCLES, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for Trumpet/Oboe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp./Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.16</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. Part marked for Trp./Ob. In 3 sections as older fantasias.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>936</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4084</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for 3 violins</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>3 Vln. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.6</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts:key Bb. C time [Tutti,Adagio]-3/4 [solo]-3/2 [tutti]+3/2 [solo] -C [solo]+[Allegro]-3/4.[Tempi indic. in parts].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>937</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4085</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BONONCINI, G B</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Bo.5</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key C. Sections: C time - C time - 3/2 [key a] - 6/8. [3 Vln. parts].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>934</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4082</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for a violin</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl No.8</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key C. C time [Allegro] - C time [Adagio] - 3/4 [Presto] - C time [Adagio: key c] - 6/8 [Presto].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>922</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4070</literal>
+      </binding>
+      <binding name="composer">
+        <literal>WANIURA, R P C</literal>
+      </binding>
+      <binding name="date">
+        <literal>1736</literal>
+      </binding>
+      <binding name="title">
+        <literal>Cultus latriae Op.2</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>XLA.2</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>12 offertories (solemn) suited to the main annual feasts of the Lord.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=47,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>924</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4072</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SAMMARTINI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>8 Overtures and 6 concertos</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Corn. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl R.M.17.a.3 10</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite/concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Marked as "Overtures of concertos".</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

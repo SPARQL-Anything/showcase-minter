@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>984</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4130</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FASCH, J F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e C18</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concertino</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Timp. Fl. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb Mus.2423/N-40</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. Ouverture - Air - Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>999</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4145</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1688</literal>
+      </binding>
+      <binding name="title">
+        <literal>Motetto a 5 voci</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. [Org.]</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.16781</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score [senza parti]: key D.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>994</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4140</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1776</literal>
+      </binding>
+      <binding name="title">
+        <literal>Mass for 5 voices</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont. SSATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.18940</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Mass</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Instruments in two choral groups. Grave - allegro (adagio).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1001</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A5001</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SEIFFERT, M</literal>
+      </binding>
+      <binding name="date">
+        <literal>n.d.</literal>
+      </binding>
+      <binding name="title">
+        <literal>Die Chorbibliotheb der St MSch</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Catalogue by auth.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Periodical</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Extract from M Seiffert "The Choir Library of St Michael's School in Luneburg in J S Bach's Time". pp.593-621.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>996</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4142</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1680</literal>
+      </binding>
+      <binding name="title">
+        <literal>Confitebor a 4</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. SSAB</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod. 18824</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>990</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4136</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:ROmi M.S.66/35</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. Allegro - largo - allegro - adagio - allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>986</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4132</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ZELTER, J D</literal>
+      </binding>
+      <binding name="date">
+        <literal>1723</literal>
+      </binding>
+      <binding name="title">
+        <literal>Symphonia</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Ob. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb Mus.2358/D-2</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D: Sinfonia is a da capo ternary mvt.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1000</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4146</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1729</literal>
+      </binding>
+      <binding name="title">
+        <literal>Missa Clementiae</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.15899</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Mass</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key a.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>987</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4133</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ZELTER, J D</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Laudate pueri</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. T. solo.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb Mus.2358/D-67</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>997</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4143</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1676</literal>
+      </binding>
+      <binding name="title">
+        <literal>Laudate pueri a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.15543</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key C.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>983</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4129</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FASCH, J F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Corn. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb Mus.2423/0-23</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. Has incipit. Allegro - Andante - Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>995</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4141</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1679</literal>
+      </binding>
+      <binding name="title">
+        <literal>Beatus Vir a 9 Voci</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.15544</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key a.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>989</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4135</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:ROmi M.S.XVII 18-51/32</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. Allegro-Adagio-Presto-Vivace. (spirituoso).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>993</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4139</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PEZOLD</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Cantata "Meine Seufzer"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Cantata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Only title page of a cantata for 13th Sunday after Trinity.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>988</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4134</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:ROmi M.S.XVii.18-15/30</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto (suite)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key Eb. Allegro-Andante-Aria-Vivace-Duetti [con Fg.]-Vivace da capo.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>982</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4128</literal>
+      </binding>
+      <binding name="composer">
+        <literal>DIEUPART, F C</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto for trumpet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb Mus.2174/o-5</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key b. Has incipit: Vivace-adagio-Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>991</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4137</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FASCH, J F</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto a 6</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:ROmi M.S.66/38</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key Eb. Allegro - adagio - allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>992</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4138</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Singet dem Herrn ein Neues Lied</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Brass. Str. Cont. SATB</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key C. Instr. are grouped into 2 choirs.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>985</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4131</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FASCH, J F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto (No.18)</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Ob. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb Mus.2423/N-78</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. Has incipit. Ouverture - Andante - Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=50,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>998</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4144</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1677</literal>
+      </binding>
+      <binding name="title">
+        <literal>Laetatus sum a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.16780</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

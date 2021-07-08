@@ -1,0 +1,593 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>298</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1299</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, P</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Beatus Vir a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. 2 SATB. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:T 1216</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Uses double chorus and large/small orch. Key g.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>299</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1300</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BONONCINI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1685</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia No.5/8/9</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Pub. Op.3, preface dated 20.12.1685, Bologna. Source assumed I:Bsp. A 2nd version,full score,is marked Vm 7 1476, fol.25-31(7 bars missing)</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>285</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1286</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata No.1 a 6</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ctt. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>S:Uu Instr.mus.hs [ ]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Transc. Minter 1974. Multi-sectional work: allegro-grave-allegro- grave (with metrial change to duple at end). Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>296</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1297</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1741</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria in C [for soprano and trumpet]</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Sopr. Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Bds Mus.ms. 2731</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Mass</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Last bars missing from ms. 2731 supplied in mod. ms. Key C.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>290</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1291</literal>
+      </binding>
+      <binding name="composer">
+        <literal>REUTTER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1770/1</literal>
+      </binding>
+      <binding name="title">
+        <literal>Servizio di Tavola No.2</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Ob. Str. Bass.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wgm Nr: 8093</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The dating is of the copying of ms. The inventory No. clearly marked. 3 mvt.: Allegro-Minuet and Trio-Allegro Finale.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>286</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1287</literal>
+      </binding>
+      <binding name="composer">
+        <literal>KREMBERG, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ouverture a trompette</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>French overture.</literal>
+      </binding>
+      <binding name="notes">
+        <literal>J.K. composed a mus. entertainment "England's Glory" for Queen Anne's birthday 1706: see GB: Lcm mss.2231.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>292</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1293</literal>
+      </binding>
+      <binding name="composer">
+        <literal>QUERFURTH, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in Eb</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Bass.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:Pnm XXXII-A-505</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>In 3 mvts.: Allegro-adagio-presto. A mid-C18 concerto. Source: Mussection, Nat. Museum, Prague: 2 copies.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>283</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1284</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TELEMANN, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto a 7 in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Romi Mus.Sa.XVII.18.49.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Min. photographic copies:fol.1-12. In 3 mvts.: Allegro-Adagio-Allegrofor 2 Trp. [tacet in Adagio]. Note on auth: Sigr. G. Melante.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>284</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1285</literal>
+      </binding>
+      <binding name="composer">
+        <literal>LOBKOWITZ, Prince</literal>
+      </binding>
+      <binding name="date">
+        <literal>17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>3 Marches for Trumpet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. 2 Ob. Bass.</literal>
+      </binding>
+      <binding name="source">
+        <literal>S:Uu Ins.mus.hs.3:5a/b/c</literal>
+      </binding>
+      <binding name="genre">
+        <literal>March</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>297</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1298</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PALLAVICINO, C</literal>
+      </binding>
+      <binding name="date">
+        <literal>17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia and aria for trumpet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe [ ]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score from Il Diocletiano</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>282</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1283</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TELEMANN, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1728</literal>
+      </binding>
+      <binding name="title">
+        <literal>Air in C</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Litolff Ed. Nr.5632</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The pieces comprise: Air [1 Trp.] - Polonaise [3 Trp.] - Fuga [2 Trp.].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>301</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1302</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VARIOUS</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Collected overtures</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trbl.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Compilation of works by English composers.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>293</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1294</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CZERNOHORSKY, B M</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>"Laudetur Jesus Christus" a 4</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>SATB. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:Nm XV-A-8</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>CZ was of the Franciscan minor orders. Key F. After a chordal opening, there is a fugue (with tonal ans.).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>288</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1289</literal>
+      </binding>
+      <binding name="composer">
+        <literal>MOLTER, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto for trumpet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Bds Mus.ms. 303</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>3 mvts.: Key D</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>287</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1288</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCARLATTI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia from a serenata</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Bds Mus.ms. 19651</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>In score form: Key D, with typical antiphonal working between Vl.1 and 2.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>294</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1295</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, J H</literal>
+      </binding>
+      <binding name="date">
+        <literal>1662</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concentus Musicus</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Sonata No.1. Key C. a 8. Ded. to Leopold, G, Archduke of Austria etc. A typical old sonata form:allegro-adagio-allegro-adagio [3/2:C].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>295</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1296</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FORSTER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 7 for 2 cornettini</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Adagio:allegro [duple]-Adagio:allegro [triple]-Adagio:allegro [duple] -Allegro [triple]:formal conception involving duplication &amp; contrast.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=15,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>291</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1292</literal>
+      </binding>
+      <binding name="composer">
+        <literal>OREFICI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1709</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia to L'Engelberta</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn ms. 18057</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. In 3 mvt. overture form: Presto-Grave [Trp. tacet]-Allegro. Trans. Minter 10/2/72 (Vienna).</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

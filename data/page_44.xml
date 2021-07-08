@@ -1,0 +1,625 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>880</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4028</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Balletti a 4</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.252</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Dance</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. Sonatina-Corrente-Balletto-Sarabande-Sonatina (duple + triple times alternate). Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>871</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4019</literal>
+      </binding>
+      <binding name="composer">
+        <literal>KROMMER, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1800</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concertino Op.39</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Fl. Ob. Corn. Vln. Vla. Bass.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl h.2799 d.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key G: 4 mvts.: Allegro-Adagio (with minore-maggiore midway)-Menuet-Rondo.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>865</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4013</literal>
+      </binding>
+      <binding name="composer">
+        <literal>STANLEY, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1750</literal>
+      </binding>
+      <binding name="title">
+        <literal>Choice of Hercules</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl 5326</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture (French)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. A1546.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>867</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4015</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FEDELI, R</literal>
+      </binding>
+      <binding name="date">
+        <literal>n.d.</literal>
+      </binding>
+      <binding name="title">
+        <literal>O adoranda Trinitas a 4</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl [ ]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Anthem</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. [ ] - only 1 page extant/cont. of same ms. as A4014.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>870</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4018</literal>
+      </binding>
+      <binding name="composer">
+        <literal>KREBS, J L</literal>
+      </binding>
+      <binding name="date">
+        <literal>1745</literal>
+      </binding>
+      <binding name="title">
+        <literal>Chorale Fantasia "Gott ihr Vater"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Org.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl 362.47</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Fantasia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key F: fully dev. Pedal part in German manner.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>866</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4014</literal>
+      </binding>
+      <binding name="composer">
+        <literal>WILDERE, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>n.d.</literal>
+      </binding>
+      <binding name="title">
+        <literal>Te Deum a 13</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl [ ]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. A1463.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>874</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4022</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ORLANDINI, G M</literal>
+      </binding>
+      <binding name="date">
+        <literal>1718</literal>
+      </binding>
+      <binding name="title">
+        <literal>L'Antigona, Overture</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. Overture for 4 Trp. [2x2 groups]: Allegro spiritoso-Adagio [4 Trp. tacent]-Allegro [3/8]. Rev. La Fedelta coronata [Bologna 1727]</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>868</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4016</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PORPORA, N</literal>
+      </binding>
+      <binding name="date">
+        <literal>1734</literal>
+      </binding>
+      <binding name="title">
+        <literal>La clava di Teseo</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl [ ]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Written in London: pp.1-19 of folio.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>873</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4021</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BATES, W</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1765</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerti No.2/4 Op.6</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. No.2: Allegro assai-Andante-March. No.4: Allegro con spirito- Andante-Air-Allegro assai. 1st perf. and pub. in London.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>879</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4027</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PAISIBLE, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Praeludium [2nd Eng. Suite]</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:SWl 1239/1</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key Bb:B. 1.Prelude-2.Rondeau-3.[Sarabande]-4.[Menuet]-5.3/5- 6.[Gavotte]-7.[Hornpipe en rondeau].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>862</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4010</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1709</literal>
+      </binding>
+      <binding name="title">
+        <literal>Gli ossequi della notte</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17998</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. A1390.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>864</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4012</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1726</literal>
+      </binding>
+      <binding name="title">
+        <literal>La corona de Arianna</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17270</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. A1395. Copy of Sinfonia.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>878</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4026</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PAISIBLE, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Praeludium [3rd Eng. Suite]</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:SWl 1239/2</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. Overture + 4 mvt. of dance (binary) type: marked C.1-5 as in English sets of parts.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>863</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4011</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CALDARA, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1734</literal>
+      </binding>
+      <binding name="title">
+        <literal>Enone</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.18224</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. A1377.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>877</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4025</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:SWl 343</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto (suite)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. Has catalogue incipit. Adagio [C]-Allegro [2/4]-Siciliano[6/8] - Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>869</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4017</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>l18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Suite in B flat</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Fl. Cl. Fg. Pos.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A mvt. for wind ('harmonie') band. Key B flat. Romance-Menuet + Trio-Allemande-March. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>876</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4024</literal>
+      </binding>
+      <binding name="composer">
+        <literal>N-ID</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto a 4</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Corn. 2 Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto (suite)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A posthorn concerto (and cor de chasse). In suite form: incl. air/gigue. Key Bb.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>875</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4023</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TELEMANN, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ouverture a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:SWL</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Ouverture (French)-March-Aria-Sarabande-Gigue-Passepied I/II-Rondeau. See thematic catalogue in Hoffman [1969].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=44,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>881</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4029</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Intrada and Allemanda</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV/53</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C. Intrada-Allemanda. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

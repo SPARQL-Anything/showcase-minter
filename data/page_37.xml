@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>738</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1738</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1746</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Occasional Oratorio"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont. B. solo</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.43</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Largo "To God, our strength, sing loud and clear".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>727</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1727</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1748</literal>
+      </binding>
+      <binding name="title">
+        <literal>Solemn March "Joshua"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.17</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. At start of Act 2.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>729</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1729</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1713</literal>
+      </binding>
+      <binding name="title">
+        <literal>Trumpet Aria "Silla"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. A. solo.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.61</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Da capo aria from sc.7 "Con tromba guerriera" [Claudio]</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>725</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1725</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HINGESTON, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>2 Fantasias</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ctt. Pos. Cont.[Org.]</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Fantasia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key F. In form of embryonic suite: (1) fantasia (2) Almand (3) Ayre. Original instrumentation gives 'sackbutt'.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>742</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1742</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1737</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Justin/Giustino"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. Aria "All' armi guerrieri" cf. Chr.H.W.89.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>731</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1731</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>March in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Bass.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.48 (142)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Pasticcio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. Binary form. The xlviii series are separate mvts.: cf. New Grove for possible allocations.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>726</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1726</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1741</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture "Samson"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Corn. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.10</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key G: sinfonia to Act 1/played with soli (concertante) 1st time. Andante + Adagio + Allegro - Menuetto 1 + 2.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>741</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1741</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1741</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Samson"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. A. solo</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.10</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. Aria of Israelitish woman "Let the bright seraphim".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>736</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1736</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1729</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata "Lotario"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.77</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Act II.1. This has been altered (by late hand) to form a sonata standing independently).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>734</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1734</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1711</literal>
+      </binding>
+      <binding name="title">
+        <literal>Music for trumpet and timpani "Rinaldo"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.58</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. 1.March 2.Aria (A-solo) "Or la tromba in suon festante" [Rinaldo] 3.Battaglia:ternary da capo.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>733</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1733</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1740</literal>
+      </binding>
+      <binding name="title">
+        <literal>Hornpipe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.48 (144)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Dance</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. Binary dance, comp. for concert at Vauxhall.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>737</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1737</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1742</literal>
+      </binding>
+      <binding name="title">
+        <literal>Air "The trumpet shall sound" from 'Messiah'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. B. solo</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.45</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. The middle section of this da capo aria is in key b: adagio cadence leads to repeat.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>728</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1728</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1713</literal>
+      </binding>
+      <binding name="title">
+        <literal>Coro "Goda ogn' alma"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont. SATB.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.60</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Da capo form: final chorus in opera "Teseo".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>739</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1739</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1750</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria and Chorus "Theodora"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Str. Cont. B. solo</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.8</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: (1) Aria "Go, my faithful soul" (2) Chorus "And draw a blessing down".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>730</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1730</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1729</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Lotario"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.77</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: 28 bars (no mod. from tonic key).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>723</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1723</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1707</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Ah! Crudel"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Str. Cont. S. solo</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.52A (1)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture (cantata)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Allegro-adagio [key b]-Allegro da capo.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>732</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1732</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1726</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Alessandro"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.72</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Da capo form/middle section in b. Descriptive sinfonia</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>735</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1735</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1746</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Timp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.47 (80)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Largo [adagio cadence] - Allegro - Impromptu [org. ad lib.] - Allegro ma non troppo. Scoring: 2 Trp. 4 Corn. Timp. Etc. Version of ov. to Royal Fireworks Music (q.v.).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>740</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1740</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1732</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Gia risonar d'intorno" [Ezio]</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.80</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Varo's aria [da capo, middle section in key b].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=37,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>724</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1724</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HERTEL,</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Double Concerto for trumpet and oboe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key Eb. Allegro-Arioso [Trp. tacet] with cadenza[Ob.]-Allegro.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

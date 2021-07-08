@@ -1,0 +1,625 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>486</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1487</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PO DAL FINALE, G.M.</literal>
+      </binding>
+      <binding name="date">
+        <literal>1706</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.XIII.5</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Presto-Grave/Grave breve [key b - 1/2 close]-Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>493</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1495</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON [HANDEL?]</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bk.1-6 of Fu, Nos.197-199: key D: Sinfonia (allegro) [with Trio passages]-Largo [key b/da capo]-Allegro [3/8]. Possibly attributable to Handel. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>501</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1502</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ouverture in C minor</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Taille. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bk 1-6 of Fu / no. 1-12; key Eb; Overture [Fr.] - Gigue - Aria [vivace] - Gavotte 1/2 - Aria [molto adagio] - Rigaudon and Trio - Menuet and Trio - Gigue 1/2. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>489</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1490</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ouverture in Eb</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Trp. incpt. [Min.1 missing]. Key Eb: Overture [French] plus dances, no.186-192.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>487</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1488</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto a 6</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3707 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Allegro-Adagio-Allegro-Rigaudon 1/2. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>491</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1492</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Fg. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria (suite)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Single item, no.132 from Bk. 1-6 of Fu. Key Eb. A da capo form. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>492</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1493</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Vla. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From Bk.1-6 of Fu. Nos.292-306. The concerto of da camera type, with string of alt. dances/arias. Vla.=taille or alto part. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>490</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1491</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Suite in Eb</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. 3 Ob. 2 Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>No.39-45 in Bk.1-6 of Fu. Key Eb: Sinfonia-Grave [3 bars]-Aria 1-2 [Trp. tacet]-Gigue-Duetto [Trp. tacet]-Aria. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>499</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1500</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in C minor</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Taille. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bk.1-6 of Fu/no.59-65: Concerto (allegro)-Gavotte-Aria-Menuet-Duet [2 Fg.]-Gigue. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>500</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1501</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in C minor</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Taille. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bk.1-6 of Fu/no.261-266: key E: Concerto (allegro)-Menuet 1/2- Gigue 1/2. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>495</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1496</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SYDOW, S P</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bk.1-6 of Fu/Nos.74-80: Key D: Allegro-Aria-Rondeau-Aria-Gigue-Aria-Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>488</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1489</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON [ALBINONI]</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in C</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3715 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Cat. has incipit. Key C: Allegro [with ritornello/da capo]- Affettuoso [6/8]-Presto. Attributed to Albinoni.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>494</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1495</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. 2 Vln. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bk.1-6 of Fu/Nos.270-276: concerto of da camera type: Allegro-Aria [key a]-Marcia-Aria-Grave [key b]-Bourree-Adagio [key b]. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>496</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1497</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ouverture in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bk.1-6 of Fu/Nos.237-246: key D: Overture [Fr.]-Angloise Trio-Largo [key b-1/2 close]-Menuet-Arietta-Adagio-Duett [Fg.]-Gavotte-Rondeau. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>502</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1503</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia in B minor</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bk.1-6 of Fu/no.134-137(138)139:key b: Sinfonia [grave:allegro:grave] -Andante vivace-bourree 1/2-( )-Gigue. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>483</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1484</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata con trombe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From Fr. pub. Key D. Sonata da camera: Allegro-Adagio [Trp. tacet]-Allegro. Sonata No.1.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>497</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1498</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bk.1-6 of Fu/Nos.23-28: key D: Allegro-Aria-Menuet 1/2-Allegro-L'autree. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>485</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1486</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ENDLER, J S</literal>
+      </binding>
+      <binding name="date">
+        <literal>1749</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia a 7</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Crn. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:DS [ ] Mus.Ms.1213/13</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key F: Allegro-Andante [Bb,Trp./Crn./Timp. tacent]-Menuet 1/2-Vivace-Presto 1 and 2 [Trp. etc. tacent].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=25,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>498</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1499</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ouverture in C</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:[Kdma] Fu 3741 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bk.1-6 [1 Trp.3 Ob.2 Fg.] of Fu/Nos.178-185; key C; Overture [Fr.] - Allemande - March - Aria - Gavotte - Duett [2 Fg} - Aria [en Menuet i.e. Minuet and Trio] Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

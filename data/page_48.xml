@@ -1,0 +1,593 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>948</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4096</literal>
+      </binding>
+      <binding name="composer">
+        <literal>DRAGHI, B</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Add.24889</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Theatre</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From "Playhouse Tunes".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>954</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4102</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>52 Ouvertures, concertos and other short works</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Fl. Ob. Vla. (Taille) Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Kdma Fu.3741a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite/concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This item includes a range of pieces in microfilm apparently grouped together in a single identifying source and including some arias and dances.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>960</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4106</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>24 Sonatas for German trumpet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.G.312</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>All binary mvts. [sonatas] for clarino solo. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>951</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4099</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FECKLER, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Applauso poetico</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17641</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Cantata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ded. To Joseph, King of Rome. 1. Sonata: [Allegro-Grave-Presto] Key C. 2. recit + Aria "Gloria". 3. recit + Trp. Aria "Fama" Key D. 4. recit + Aria "Gloria" Key C. / D. 5. Marte/"Apollo" recit + Arias in 3 time [cf Stravinsky's 2 metres in Apollon Musagetes]. 6. "Gloria" recit + Aria Pastorale Key Bb. 7. Ensemble - Finale.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>957</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4105</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RICHTER, F X</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Rtt fol.18</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Set of 6 Parts: key D. Allegro assai - Andante [2 Trp. tacent] - Presto assai (3/8).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>956</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4104</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Symphonia</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Kdma Fu.3741a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key d. Nos.31--314 Symphonia and arias. [Ref.A4102 for numbering and complete set].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>949</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4097</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>34 Playhouse Tunes</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Add.24889</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Theatre</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The source includes a content list of the collection. No 21 is a setting of 'Lulliburlero'</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>953</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4101</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Kdma Fu.3715a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Has 3-bar incipit. Key C. Sinfonia [in da capo form] - Affettuoso [6/8] - Presto [3/4]. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>945</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4093</literal>
+      </binding>
+      <binding name="composer">
+        <literal>GILLIER</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>"The Storm Sett"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Add.24889</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Theatre</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From "Playhouse Tunes".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>959</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4106</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>24 Sonate a 2</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.F.1529</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>24 sonatas for German trumpet: 2 sets of individual parts. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>958</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4106</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PALLAVICINO, C</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia in D "Il Diocletiano"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.F.897</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. foll.1-5. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>944</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4092</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TOLLETTS, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overtures</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Add.24889</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Theatre</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From "Playhouse Tunes":1st music "Lover"s Luck", Overture "Lover's Luck".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>946</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4094</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FARMER, T</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Add.24889</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Theatre</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From "Playhouse Tunes".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>950</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4098</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CORBETT, W</literal>
+      </binding>
+      <binding name="date">
+        <literal>1709</literal>
+      </binding>
+      <binding name="title">
+        <literal>6 sonatas Op.3</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp./Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>E Roger, Amsterdam</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata/suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts [as pub.]. Key D. [Sonatas V + VI in E].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>942</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4090</literal>
+      </binding>
+      <binding name="composer">
+        <literal>NICHOLAS</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Trumpet Piece</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Add.24889</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Theatre</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From "Playhouse Tunes".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>961</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4107</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonate 24 a 2 clarini</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.G.297</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>2 sets of individual parts. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>947</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4095</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ECCLES, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Arias</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Add.24889</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Theatre</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From "Playhouse Tunes".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=48,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>943</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A4091</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overtures</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Add.24889</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Theatre</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From "Playhouse Tunes": 1st Music "Wives Victory", Overture "Wives Victory", Overture "Moor of Venice", Overture "Mustapha".</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

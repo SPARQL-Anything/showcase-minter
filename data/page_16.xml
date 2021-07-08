@@ -1,0 +1,625 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>315</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1316</literal>
+      </binding>
+      <binding name="composer">
+        <literal>MOURET</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>4/5ieme Recueil</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Incidental</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A collection, by royal grant, of the "divertissement" of the new Italian Theatre in France: Trp. extracts only.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>308</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1309</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SARTORIO, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1677</literal>
+      </binding>
+      <binding name="title">
+        <literal>Trumpet music from "Antonio e Pompejano"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Vnm [ ]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Selection of music with Trp. from the opera.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>309</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1310</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FASCH, C F C</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Triple concerto in E major</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vln. Ob.d'am. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>B:Bc W.7308</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score version. Key Eb. Allegro-affettuoso-allegro [with cadenza].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>314</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1315</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1735</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ouverture for violin a 7</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Oumc</literal>
+      </binding>
+      <binding name="genre">
+        <literal>French overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Incomplete set parts in GB:Ob. From 6 ouvertures for Vln. and Cont. Op.6 in GB:Lbm h. 3216 (10).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>313</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1314</literal>
+      </binding>
+      <binding name="composer">
+        <literal>REICHE, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Turmsonaten</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>4 Vc.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonatinas</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Nos. 1/2/4/5/6/21/22 are included: dedicated to the reviver of Turmmusik [see New Grove for practice in Germany C16-C18].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>303</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1304</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TELEMANN, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia in F</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Fl. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:DSim 1034/97</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>In 3 mvts.: Alla breve-Andante [Trio]-Vivace. Key F.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>317</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1318</literal>
+      </binding>
+      <binding name="composer">
+        <literal>Minor English</literal>
+      </binding>
+      <binding name="date">
+        <literal>17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Dances and airs</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. 3 Pos.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Mask</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Pieces by Bassano, A [3 Almandes], Ferrabosco, A [ 1 Almande], Adson, J [3 courtly airs] 1621: Parsons [Trumpet tunes].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>320</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1321</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CORELLI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto for 2 trumpets</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn E.M.120</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The Fac. and a mod. scored version. Key D. Allegro-grave [Trp. tacet]-allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>307</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1308</literal>
+      </binding>
+      <binding name="composer">
+        <literal>GABRIELLI, D</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 6 con trombe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.XI.3</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A 4 section sonata: Largo-Presto-Largo-Presto. Key D.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>318</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1319</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CESTI, M A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1667</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for 2 trumpets</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Version in Minter's hand, dated 16.4.73.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>311</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1312</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALBINONI</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in C for trumpet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. 3 Ob. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Sikorski Ed. Hamburg</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: Allegro-affettuoso [in a]-presto. Ms. preserved in D:Muu, part of Bentheim-Furstenberg collection: Fu 3715a.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>321</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1322</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ORLANDINI, G M</literal>
+      </binding>
+      <binding name="date">
+        <literal>1718</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ouverture to L'Antigona</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB: Lbl [ ]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Overt. key D:Spiritoso [C]-Adagio [C,f sharp]-presto [3/8,D]. ff.1-9. Rev. as La fedelta coronata [Bologna 1727]. Set of parts in mod.ms.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>302</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1303</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BLOW, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1691</literal>
+      </binding>
+      <binding name="title">
+        <literal>A song on St. Cecilia's Day</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Anthem</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A full score version.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>319</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1320</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VINCI, L</literal>
+      </binding>
+      <binding name="date">
+        <literal>1726</literal>
+      </binding>
+      <binding name="title">
+        <literal>'Didone Abbandonata': Overture</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>US:Cn Ms.Case VM1500.v77d</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The libretto by Metastasio (alias Pietro Trappassi). Other sources incl. GB:Lbm Add.31607/D:Mus Hs 4242/A:Wn Ms cod. 17710.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>312</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1313</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ENDLER, J S</literal>
+      </binding>
+      <binding name="date">
+        <literal>18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia in Eb</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:DSim Mus.ms.1213/12</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Work has a cat. incipit. Vla. deleted in ms. In suite form: presto-allegro-largo-vivace [da capo]-menuetto and trio: all mvts. key Eb.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>306</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1307</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCARLATTI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1699</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia and 2 arias</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The opera "Il Prigionier Fortunato". New Grove dates 1698: sources GB:Lbm/I:Nc.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>304</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1305</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia a 2 trombe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>An overture in two parts: key D. Grave: Allegro [3/4]-Allegro [C].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>305</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1306</literal>
+      </binding>
+      <binding name="composer">
+        <literal>KREBS, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1743</literal>
+      </binding>
+      <binding name="title">
+        <literal>Chorale Prelude "Gott der Vater"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Org.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl 362.47</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Prelude</literal>
+      </binding>
+      <binding name="notes">
+        <literal>pp.213-216. Chorale prelude for organ with trumpet stop and pedals.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=16,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>310</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1311</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PEPUSCH, J C</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto for trumpet No.39</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:ROmi Mus.Saec.XVII-37</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Arr by Curt Neuhaus.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>41</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1041</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1677</literal>
+      </binding>
+      <binding name="title">
+        <literal>Laetatus a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod. 16780</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A full score with indiv. parts. The voices are SSATB. The cat. no. is ms. index. The adagio to words "Fiat pax" is in triple time (3/2).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>49</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1049</literal>
+      </binding>
+      <binding name="composer">
+        <literal>OTTO</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Trumpet concerto in Eb</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob./Vln. Corn. Vla. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:MUu Ott/59</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Copyright of orig. ms. in hands of the Prince of Bentheim and Burg Steinfurt. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>54</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1054</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCARLATTI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1721</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia avanti l'Opera 'Griselda'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Operatic overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The overture is in a tripartite form: presto-adagio-presto. Libretto was after Zeno. Edition: D Dreschler (Kassel,1960). See Groves for numerous sources.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>60</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1060</literal>
+      </binding>
+      <binding name="composer">
+        <literal>POGLIETTI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a tre</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Fl. Ctt./Trp. Fg. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 191</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Trio Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A sinfonia in parts, with a mixture of fugal sections alt. with dramatic homophony. Copyright 1965 by Heinrichshofen Verlag, Locarno. PEG6087. Ctt. part is playable on natural trumpet.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>56</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1056</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FASCH, J F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Ob. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb 2423/0-23</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>An edition by R L Minter in full score.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>45</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1045</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VIVALDI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D RV563</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Ob. Vln. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Ricordi Ed. (1971) Haas</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This is a fac. of orig. of A1044. The orig. is in part form.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>55</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1055</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FIALA, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>e19C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Divertimento in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Timp. Cl. Str. Fg.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:Pnm XLIX.D.410</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full title: 'Divertimento for keyed trumpet concertante.' The copy orig. stems from from 1831, long after Fiala's death in 1816. The Prague Nat.Mus. sigillum is for the Music Dept.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>58</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1058</literal>
+      </binding>
+      <binding name="composer">
+        <literal>LEGRENZI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1675</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia avanti l'opera "Eteocle e Polinice"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe F.628</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A bipartite overture in slow-quick formation.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>43</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1043</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. 2 Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.VIII.2</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The middle adagio mvt. is of the short chordal type in favour before Vivaldi. There is a great deal of echo effect.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>42</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1042</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1667</literal>
+      </binding>
+      <binding name="title">
+        <literal>Dixit Dominus a 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x SATB, Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod. 15982</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The designation a 8 involves a double choir (each SATB). Choir reduced to single chorus for 'Gloria'.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>44</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1044</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VIVALDI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D RV563</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Ob. Vln. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Ricordi Ed. (1971) Haas</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The 2nd mvt., a Grave, is in a Sarabande style with virtuoso vln. passage work. G F Malipiero edited.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>46</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1046</literal>
+      </binding>
+      <binding name="composer">
+        <literal>STOELZEL, G H</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto grosso a 4 chori</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Fl. Ob. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Gol</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Pub. in DdT XXIX.XXX. 1907. A polychoral work: 2 x 3 Trp. Timp./ Fl. 3 Ob. Fg./Str. and Double Cont. Antiphonal effects are clearly intended in movts. 1 and 3.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>52</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1052</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RAMEAU, J P</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>2 intermezzi from Nelee et Myrthis</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Fl. Ob. Fg. Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Incidental music</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The two pieces come from scene 5: the Entree de Triomphe, and Chaconne (with tripartite major-minor-major sections).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>59</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1059</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1709</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture to Oratorio 'La Resurrezione'.</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:MUp Hs 1873 (MUs)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The Fitzwilliam score (Mu.Ms.251/GB: Cfm) ends on p.17 of this version. Ms. also includes a binary Introduction to the 2nd pt.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>47</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1047</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TELEMANN, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto No. 28</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>3 Trp. Timp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Ds Mus.ms. 1033/28</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The ms. is in full score. Ob. double Vln. The 4th and 5th mvts., a Largo and a gigue-like Vivace, are both in triple time.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>53</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1053</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCARLATTI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1695</literal>
+      </binding>
+      <binding name="title">
+        <literal>Two arias with trumpet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Mc</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Operatic arias</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Two arias taken from the opera 'Massimo Puppieno'. Libretto by Aureli and termed a melodrama. Source: Monte Cassino, Biblioteca.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>51</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1051</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FISCHER, J K F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1695</literal>
+      </binding>
+      <binding name="title">
+        <literal>Le Journal du Printemps: Suites 1, 6, 8</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Vln. Vla. Vlc. Bass./2 Trp. opt.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Orchestral suites</literal>
+      </binding>
+      <binding name="notes">
+        <literal>"Le journal du printemps" consists of airs and dances. Published at Augsburg as Fischer's Op.1, and dated 1695. It is for 5 parts.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>50</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1050</literal>
+      </binding>
+      <binding name="composer">
+        <literal>LULLY, J B</literal>
+      </binding>
+      <binding name="date">
+        <literal>1686</literal>
+      </binding>
+      <binding name="title">
+        <literal>Carousel music</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Timp. Ob. Fag.</literal>
+      </binding>
+      <binding name="source">
+        <literal>F:V Ms.168</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Suite of airs written for the Grande Escurie.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>48</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1048</literal>
+      </binding>
+      <binding name="composer">
+        <literal>LAUE</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto for trumpet in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:MUu LAU/28</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Copyright of orig. ms. belongs to the Prince of Bentheim and Burg Steinfurt. A 3 mvt. concerto.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=3,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>57</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1057</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VEJVANOVSKY, P J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1666</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata in C</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:Kra</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This sonata shows the influence of the older multi-sectional canzona form. See also Musica Antique Bohemica 47-49.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

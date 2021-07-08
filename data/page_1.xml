@@ -1,0 +1,593 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>13</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1013</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PURCELL, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Symphony in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. 2 Vln. Vla. Cont. Bass.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Phil: Hayes Lib. 5538 [?]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The third section of expected overture form is missing. Publication headed 'Yorkshire Feast Song'.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>11</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1011</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ECCLES, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Symphony for Mercury</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob./Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.(but see Addinf)</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Symphony in 4 mvts. from "The Judgement of Paris"</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The symphony is of the sonata da chiesa type: slow-quick-slow-quick.Source is possibly GB.Lbl.Hirsch II.22b.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>3</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1003</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CLARKE, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Symphony in C</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Fl./Trp. Ob. Strings with cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:T 1232</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Symphony to an ode</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Symphony in 3 mvts. to an ode composed on the deliverance of the King leading to Aria "Now Albion raise thy drooping head".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>2</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1002</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BONONCINI,G B</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. Timp. Ob.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Orchestral Overture: opera 'Griselda'</literal>
+      </binding>
+      <binding name="notes">
+        <literal>3 mvt overture: Presto, Adagio, Allegro</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>9</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1009</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata in C</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vln. Ob. Cont. Bass.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Ms. by Minter 28.10.71</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata a 4</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A modern transcription by Minter designed for publication. No source given, but almost certainly based on GB.Lbl.Add.MS.49599.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>14</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1014</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BATES, W</literal>
+      </binding>
+      <binding name="date">
+        <literal>c.1765</literal>
+      </binding>
+      <binding name="title">
+        <literal>2 Concertos</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Vln. 2 Ob. 2 Trp. Vla. Bass. Cont. Timp. 2 Corn.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl g.406 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concertos in 10 parts. Op. 2</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The concertos are Nos. 2 and 4 from Bates Opus 2. See also A4021.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>12</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1012</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PURCELL, D</literal>
+      </binding>
+      <binding name="date">
+        <literal>1698</literal>
+      </binding>
+      <binding name="title">
+        <literal>2 Symphonies from The Ode to St Cecilia</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. Ob. Vln. Timp. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Phil: Hayes Lib. 1757</literal>
+      </binding>
+      <binding name="genre">
+        <literal>2 Symphonies from Ode to St Cecilia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The full version of the Ode is included together with a copy of the Symphony only.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>5</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1005</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CLARKE, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vlns. Vla. Cont.Bass.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:T 1232</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture to ode</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The ode was composed to the peace of Berwick and performed at Drury Lane. The 3 sections are an Alla Breve, Presto in 3/8, concluding Adagio in 3/2 time.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>10</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1010</literal>
+      </binding>
+      <binding name="composer">
+        <literal>LINIKE, J G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1737</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Fl. Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Ms. by Minter 15.11.71</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata for 4 soli and continuo</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Modern transcription designed for publication. No source given.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>20</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1020</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Orchestral Suite (Overture)</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>[in 4 parts]</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Orchestral Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The work consists of an Ouverture, Bourree, Minuet, Gavotte, Hornpipe March. Marked as deriving from "The Wives' Victory" (adapt. of Merry Wives of Windsor).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>15</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1015</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BATES, W</literal>
+      </binding>
+      <binding name="date">
+        <literal>c.1765</literal>
+      </binding>
+      <binding name="title">
+        <literal>2 Concertos</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. 2 Corn. Timp. 2 Ob. Fg. 2 Vln. Vla. Bass. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl g.406 a</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concertos in 10 parts. Op. 2</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The concertos nos. 2 and 4 from Bates's op. 2 concertos in 10 parts a full score transcription (in Minter's hand). See also A4021.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>7</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1007</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, Godfrey</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Minuet in g</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trbl. Rec. Cont. Bass</literal>
+      </binding>
+      <binding name="source">
+        <literal>Schott &amp; Co. S &amp; Co 6108</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Divisions over a Ground</literal>
+      </binding>
+      <binding name="notes">
+        <literal>8 divisions (variations) over an 8 bar ground bass.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>4</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1004</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CLARKE, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Instrumental music</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp./Fl. Vlns. Vla. Cont.Bass</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:T 1226</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Symphonies and Ground from ode on Assumption</literal>
+      </binding>
+      <binding name="notes">
+        <literal>GB T1226 is an autograph in Clarke's own hand. Selection consists of (1) Symphony (overture) in D: (2) Ground in D: (3) 2 Symphonies in D.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>1</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1001</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PURCELL, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Trumpet Sonata in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. 2 Vln. Vla. Bass (cont).</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Y M15S</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Solo Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Solo sonata in 3 mvts: Trp. tacet in middle adagio mvt. Purcell Soc. Ed. SER00433 See also A1433.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>16</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1016</literal>
+      </binding>
+      <binding name="composer">
+        <literal>GREENE, M</literal>
+      </binding>
+      <binding name="date">
+        <literal>1739/40</literal>
+      </binding>
+      <binding name="title">
+        <literal>Symphony in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. 2 Ob. Fg. Vln. Vla. Bass. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Ob Ms Mus d.40</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture to Court Ode for the New Year</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This New Year Ode was performed at St James before King and Court,1739/40.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>17</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1017</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1665-1695</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia a 6 con due trombe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. Org.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp T.I.10 / King Mu</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Transcription for 2 Trp. and organ of</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This piece should really be ascribed to one of the Bolognese masters rather than to the authorship of Torelli.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>8</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1008</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1690</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Fl. Ob./Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>No.26 in "Musica Practica</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Trio Sonata for 2 soli and Continuo</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Finger was court composer to James II. It is based on a collection of Finger and Corbett chamber music pub. in 1709 by Estienne Roger.Original instrumentation gives Fl./Recorder.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=1,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>6</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1006</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FINGER, Godfrey</literal>
+      </binding>
+      <binding name="date">
+        <literal>1701</literal>
+      </binding>
+      <binding name="title">
+        <literal>Symphony in C</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Orch. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Cfm 23 H 12</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Symphony (overture) to 2nd act</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This symphony is from the second act of "The Virgin Prophetess".</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

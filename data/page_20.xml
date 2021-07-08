@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>390</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1391</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1723</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Costanza e Fortezza"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wdto XVII</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Extant in var. sources. Libretto by Pariat: commissioned by Charles VI. Key C: Allegro-Andante-Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>386</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1387</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALBINONI, T</literal>
+      </binding>
+      <binding name="date">
+        <literal>1726</literal>
+      </binding>
+      <binding name="title">
+        <literal>2 arias from "La Statira"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.18693</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Aria of Oronte Act 1/8 [key C with Trp. "Gia per darmi la vittoria"]: also aria "Vien con nuova orribil guerra" [key C with Trp.].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>392</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1393</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1716</literal>
+      </binding>
+      <binding name="title">
+        <literal>Intrada "Angelica vincitrice"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x Trp. Timp. Vln. Vla./Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17281</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full title: "Angelica, vincitrice di Alcina". Key C: Allegro-grave [Str. only]-Allegro. Instr. grouped in two antiphonal choirs.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>396</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1397</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TUMA, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata for 4 trumpets</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb 1964</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A mod. full score with cont. real. of the sonata. Key C. Allegro-Adagio [Str. only]-Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>398</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1399</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ZIANI, M A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1707</literal>
+      </binding>
+      <binding name="title">
+        <literal>Duetto from 'Alboino'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.18030</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Duet (opera)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Duet from Act III/8: Key C. Opening bars act as a ritornello.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>395</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1396</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1722</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia 'Le Nozze d'Aurora'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17262</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture.</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ded. to Charles VI on nuptials of Maria Amalia and Carlo Alberto, libretto by Pariati. Sinfonia alternates allegro/adagion in old style.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>391</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1392</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1719</literal>
+      </binding>
+      <binding name="title">
+        <literal>Introduzione "Elisa"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x Trp. + Timp. Corn. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Hirsch II.235</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Also extant: A:Wn Cod.17228. Key C: Allegro-andante [Str. only]-Allegro da capo.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>385</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1386</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALBINONI, T</literal>
+      </binding>
+      <binding name="date">
+        <literal>1726</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia to 'La Statira'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.18693</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>'La Statira' was composed in Rome. Key D: Allegro-Andante [pizz. senza cembalo]-Allegro [2/4]. Last movement is a new working of 'Il nome glorioso'. See A1385 above.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>388</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1389</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1726</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "La corona d'Arianna"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17270</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: Allegro-Larghetto [Str. only]-Allegro. Ded. to birthday of Empress Cristina.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>384</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1385</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALBINONI, T</literal>
+      </binding>
+      <binding name="date">
+        <literal>1724</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia to 'Il nome glorioso'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17730</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Serenata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score: 'Il nome glorioso in terra/sanctificato in cielo' is a serenata dedicated to the Emperor Charles VI. Libretto by Cassani. See also A1386 below.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>401</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1402</literal>
+      </binding>
+      <binding name="composer">
+        <literal>REUTTER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1746-53</literal>
+      </binding>
+      <binding name="title">
+        <literal>Synfonia a due cori Nr.12</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x Trp. + Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wgm XIII - 8577</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Allegro [key C]-Andante [key a: Str. only/1/2 close on E]-Allegro. Last 9 bars missing supplied.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>400</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1401</literal>
+      </binding>
+      <binding name="composer">
+        <literal>REUTTER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto for trumpet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Allegro comodo [da capo form]-Andante [Vln. solo]-Allegro: Key D-b-D. Copied from orig. score.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>397</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1398</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ZIANI, M A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1703</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria from 'L'Esopo'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.16307</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Aria from Act III/7, Polierate's alto solo 'Su mie Furie'. Key C.:da capo form, middle in a.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>387</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1388</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1731</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Enea negli Elisi"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x Trp. + Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17274</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: Allegro-Largo[Ob./Fg./Timp. + Trp. tacent]-Allegro. Ded. to Empress Cristina's birthday.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>389</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1390</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1709</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Gli ossequi della notte"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17998</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ded. to name of Empress Amalia Wilhelmina. Key C: Allegro-Adagio [Str. only]-Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>383</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1384</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FASCH, J F</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Ob. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb Mus.2423/O-23</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ed. in full score by Minter: 1976. Key D: Allegro-andante [key A]-Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>399</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1400</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ZIANI, P A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1714</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria 'L'Atendaide'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17192</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score version: Marziano's aria Act I/12. Key C. Da capo written out.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>393</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1394</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1708</literal>
+      </binding>
+      <binding name="title">
+        <literal>Intrada "Pulcheria"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17272</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Source is autograph (?): present pub. unmarked. Key C: Allegro-Adagio [Str. only in a]-Presto. Dedicated to nameday of Amalia Wilhelmina (Empress).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>394</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1395</literal>
+      </binding>
+      <binding name="composer">
+        <literal>FUX, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1726</literal>
+      </binding>
+      <binding name="title">
+        <literal>Bacchus's aria 'La corona d'Arianna'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17270</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Aria</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Mod. pub. (unmarked) incl. as 2nd copy. Aria 'Piu non empia mie trombe famose'. Key C.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=20,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>402</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1403</literal>
+      </binding>
+      <binding name="composer">
+        <literal>REUTTER, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1736</literal>
+      </binding>
+      <binding name="title">
+        <literal>Intrada 'La Speranza Assicurata'</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont. (Ob. Fg.)</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.17980</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Overture</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Dedicated to Maria Theresia, commissioned by Charles VI. Libretto by Pasquini - Key C: Allegro-Andante (2 part/Str. only)-Allegro.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,625 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>685</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1685</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PURCELL, H</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Funeral music</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>SATB Cont./4 Trp.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Nov.18549/18714</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Anthem</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key c: 1.Anthem "Man that is born of a woman" in solo verse + chorus. 2. Queen's Funeral march and canzona for 4 Trp./best 4 Pos.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>690</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1690</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CORBETT, W</literal>
+      </binding>
+      <binding name="date">
+        <literal>1703</literal>
+      </binding>
+      <binding name="title">
+        <literal>Suite "The agreeable Disappointment"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Overture and 8 galanterien. Key D. A second copy is in Mod. hand/full score.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>700</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1700</literal>
+      </binding>
+      <binding name="composer">
+        <literal>CHILCOT, T</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1745</literal>
+      </binding>
+      <binding name="title">
+        <literal>"The choir awake"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Song (solo)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From 12 English Songs, pub. c1745 to words from Euripides. Key D: opening ritornello [Tutti] used as close.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>698</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1698</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ZELENKA, J D</literal>
+      </binding>
+      <binding name="date">
+        <literal>1723</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Sub olea pacis"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Dlb Mus.2358/D/12</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Overture to a Melodrama: ded. to Charles VI. Key D: Allegro-Adagio e staccato-Allegro da capo.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>686</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1686</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BARRETT, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Suite to "Tunbridge Walks"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Lbl Add.49599</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Suite</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A second source (incomplete) is GB:Lcm XXIX.A.11.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>696</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1696</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1708</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata to "Il Trionfo"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.24</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Allegro-Adagio [Ob. solo/Trp. tacent]-Allegro [3/8 giga].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>702</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1702</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ARNOLD, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1652</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 x 4 Trp. + Pos./Timp.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: full score. Ed. by Minter in 1980. Formal divisions of this bi-choral work marked by Tutti-solo grouping (Tutti-both grps unisoni).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>699</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1699</literal>
+      </binding>
+      <binding name="composer">
+        <literal>MEDER, J V</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Jubilate Deo</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Anthem (motet)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Overture to melodrama dedicated to Charles VI.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>693</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1693</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TELEMANN, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1762</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Der Tag des Gerichts"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D.D.T.xxviii</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. A French overture: Maestoso-Allegro (imitations)-Meastoso-Grave [cadence].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>694</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1694</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1746</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture "Judas Maccabaeus"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.22</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key g. French overture in design.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>688</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1688</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SEGER, J F N</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Fuge in G</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Org.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Fugue</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From 8 Toccatas and Fugues (1793).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>687</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1687</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1715</literal>
+      </binding>
+      <binding name="title">
+        <literal>Music from "Amadigi"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.62</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Three extracts Sinfonia, 'aria Destero dall empia dite' and 'Ah! Spietato'</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>695</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1695</literal>
+      </binding>
+      <binding name="composer">
+        <literal>HANDEL, G F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1744</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Destructive War"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Chr.H.W.19</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Oratorio</literal>
+      </binding>
+      <binding name="notes">
+        <literal>From "Belshazzar": key D.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>701</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1701</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PIPO [Amadei]</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia "Mazio Caephola"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp./Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: full score. ff.1-7. Of French overture pattern: Grave-Allegro [both in duple]-Menuet.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>691</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1691</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RICHTER, F X</literal>
+      </binding>
+      <binding name="date">
+        <literal>1741</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia a 7</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Rtt Ms.5</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia (symphony)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score: key D. Allegro [C time]-Andantino [2/4: key d]-Presto assai [3/8].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>683</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1683</literal>
+      </binding>
+      <binding name="composer">
+        <literal>MANCINI, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>1710</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture "Hydaspe fedele"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp./Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso (opera)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D. Presto [C]-Largeo e staccato [C time]-Allegro [3/8]. Drawn from part books of English theatre music.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>692</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1692</literal>
+      </binding>
+      <binding name="composer">
+        <literal>RICHTER, F X</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1740</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia ex D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Corn. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Rtt Ms.6</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia (symphony)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score: key D. A 3 mvt. symphony: Alegro assai [C time]-Andante [Trp. + Corn. tacent]2/4-Presto assai [3/8].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>684</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1684</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PALLAVICINO, C</literal>
+      </binding>
+      <binding name="date">
+        <literal>1687</literal>
+      </binding>
+      <binding name="title">
+        <literal>Suite "Le Gierusalemme Liberata"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D.D.T. LV.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>4 extracts: Ballo [Allegro in c time]-Ballo de Mori [Allegro in 3/2: a sarabande]- + Minuet [3/4]-Presto [in c time]. Keys:C-Bb+Bb-C.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=35,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>697</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1697</literal>
+      </binding>
+      <binding name="composer">
+        <literal>GREENE, M</literal>
+      </binding>
+      <binding name="date">
+        <literal>1730</literal>
+      </binding>
+      <binding name="title">
+        <literal>Overture "Descend, ye Nine!"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>GB:Ob Ms.Mus.d36</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Ode</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Text by Pope: ded. to Public Commencement at Cambridge. Key D: f.11-20 of orig.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

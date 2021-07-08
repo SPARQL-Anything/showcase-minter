@@ -1,0 +1,625 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>826</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A2014</literal>
+      </binding>
+      <binding name="composer">
+        <literal>N-ID</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Allegro for trumpet/Sinfonia spiritosa</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.F.1146</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>839</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A3008</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 4</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Fl. Vln. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV 158</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key D: Allegro [C time]-Adagio [6/4]-Allegro [?] in C time repeated.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>831</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A2019</literal>
+      </binding>
+      <binding name="composer">
+        <literal>N-ID</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Prologue "Tito"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.F.1130</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Ref. A4115.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>836</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A3005</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BIBER</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 7</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. [Cont.]</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 172</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata (binary)</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The bass is marked Tramburin (q.v.): organo missing.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>827</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A2015</literal>
+      </binding>
+      <binding name="composer">
+        <literal>N-ID</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Allegro for trumpet/Sinfonia spiritosa</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.F.1146</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Same source as A2014!!</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>834</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A3003</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VEJVANOVSKY, P J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1680</literal>
+      </binding>
+      <binding name="title">
+        <literal>Serenada</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>5 Trp. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV 98</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Serenade</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: 4 section form - Grave[3/2]-Allegro[C time]-Grave[3/2]-Allegro [C time]: sonata da chiesa design. Vla. marked especially as doubled.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>825</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A2013</literal>
+      </binding>
+      <binding name="composer">
+        <literal>N-ID</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.F.898</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>fol.66-67. Incidental sinfonia in 1 mvt. Ref. A4123. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>832</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A3001</literal>
+      </binding>
+      <binding name="composer">
+        <literal>VEJVANOVSKY, P J</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>2 Trp. Vln. Vla. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.200</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Parts: key D. 4 sections: metre 3/2-C-3/2-C [a sonata da chiesa layout].</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>824</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A2012</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TUMA, F</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>None</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Pos. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>B:AN 65 A.164 [ ? ]</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Same source and copyist as A2002. Score is in parts. SATB (soli + ripieno). An intercession motet to the Virgin Mother.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>840</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A3009</literal>
+      </binding>
+      <binding name="composer">
+        <literal>BERNKOPF, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 225</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Bernkopf was the organist at St Mauritius, Kromeric.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>829</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A2017</literal>
+      </binding>
+      <binding name="composer">
+        <literal>N-ID</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonias and Aria</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.F.396</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>823</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A2011</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1679</literal>
+      </binding>
+      <binding name="title">
+        <literal>Beatus Vir a 9 voci</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>A:Wn Cod.15544</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>This is for double choir S.M-S.A.T.B./S.A.T.B.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>837</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A3006</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1675</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata Natalita a 3 chori</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Fl. Ctti. Trp. Ob. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV 108</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>In 4 sections: all allegro with varied metres [C time,3/2 C time, 6/4]. Key G. The choirs are by family groups: strings,w'wind,brass.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>838</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A3007</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCHMELZER, J J</literal>
+      </binding>
+      <binding name="date">
+        <literal>1674</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a due chori</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Fl. Fg. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa IV.62</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>2 choirs by family groups: string + w'wind. In 5 sections as old fantasias.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>830</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A2018</literal>
+      </binding>
+      <binding name="composer">
+        <literal>N-ID</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Aria "Per gloria"</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.F.431</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Aria (Sopr.): "Per gloria del carmelo honor".Ref. A4118. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>842</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A3011</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PEZEL, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Singet dem Herren ein neues Lied</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ctti. Timp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Anthem</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Key C: 13 folios. Introduction + 10 textual sections.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>828</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A2016</literal>
+      </binding>
+      <binding name="composer">
+        <literal>N-ID</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>2 Arias and Sinfonia</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe Ms.Mus.F.894</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Score: key D. Aria: "Liberta". Ref. A4122. 2 Arias Act 1 + Sinfonia Act 2 [key C]. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>841</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A3010</literal>
+      </binding>
+      <binding name="composer">
+        <literal>PERTI, G A</literal>
+      </binding>
+      <binding name="date">
+        <literal>1691</literal>
+      </binding>
+      <binding name="title">
+        <literal>L'Inganno scoperto per Vendetta</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Moe F.921</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Opera</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Five extracts (sinfonias and n aria</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=42,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>833</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A3002</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ANON</literal>
+      </binding>
+      <binding name="date">
+        <literal>m17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Ciaccona a 3 chori</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Fl. Ob. Fg. Trp. Corn. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>CS:KRa XIV 159</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Dance</literal>
+      </binding>
+      <binding name="notes">
+        <literal>2 diff. copies. Key C: foll. by Allemanda in orig. ms. Choirs arr. by family groups: strings, brass (clarini), woodwind. 2 sets of fac. Click to see incipits  Click to see incipits</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

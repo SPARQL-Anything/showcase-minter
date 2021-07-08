@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="service"/>
+    <variable name="id"/>
+    <variable name="catno"/>
+    <variable name="composer"/>
+    <variable name="date"/>
+    <variable name="title"/>
+    <variable name="instruments"/>
+    <variable name="source"/>
+    <variable name="genre"/>
+    <variable name="notes"/>
+  </head>
+  <results>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>171</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1171</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia a 7</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.VIII.5</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Arch. index G31. A mixture of an old multi-sectional format and new virtuoso and rhythmic writing.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>169</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1169</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Double concerto with trumpet</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.XI.3</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto grosso</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The double implies two choirs a 5. In Suite form.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>179</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1179</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALDROUANDINI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia con tromba</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.XI.13</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Full score. Allegro-adagio-allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>173</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1173</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia con due trombe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.VII.5</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Arch. index G23. A full score.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>164</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1164</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.V.8</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A typical 1 bar fermata to open: leads to Vivace-grave [adagio-largo-adagio]-Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>174</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1174</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia a 5 con due trombe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.VII.6</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Arch. index G20. Full score.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>165</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1165</literal>
+      </binding>
+      <binding name="composer">
+        <literal>JACCHINI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sonata con tromba</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.XII.6</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sonata</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Basically a two mvt. work, with a cadence recalling briefly materialof opening. No Vla.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>176</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1176</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia con tromba</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.VI.7</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Arch. index G11. Allegro-adagio-presto-adagio-allegro: tendency to the 3 mvt. form away from fantasia.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>170</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1170</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1707</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia con trombe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont. (Pos.)</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.VII.3</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>In full score. Adagio intro. featuring staccato, is repeated as mvt. 3. A third adagio leads to an allegro with Trp./Ob. Arch. index G30.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>177</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1177</literal>
+      </binding>
+      <binding name="composer">
+        <literal>SCARLATTI, A</literal>
+      </binding>
+      <binding name="date">
+        <literal>c1700</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia in C to Serenata</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Ds Mus.Ms.992</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>The serenata "Venere, Adone ed Amore." Largo-presto-allegro, the last two in binary form.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>166</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1166</literal>
+      </binding>
+      <binding name="composer">
+        <literal>MOLTER, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto in D for two trumpets</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:K Hs.308</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Both score version (p.1/2) and parts (p.1/4). Concerto No.10. The source is court library, Karlsruhe.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>181</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1181</literal>
+      </binding>
+      <binding name="composer">
+        <literal>GILLES, B</literal>
+      </binding>
+      <binding name="date">
+        <literal>e18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto a 9 strumenti</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Ob. Str. Cont. Timp.</literal>
+      </binding>
+      <binding name="source">
+        <literal>Unspec.</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Allegro-adagio:largo-allegro (binary). Source device illegible.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>162</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1162</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia a 8 in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.VI.2</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Allegro-Adagio-Allegro (duet between solo Trp./Vlc.)-Presto: a basic 3 mvt. pattern with intermezzo.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>172</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1173</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia a 5</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.VIII.1</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>In full score. Arch. index G26. Tends to suite form with latter mvts. repeated, varied from solo to tutti (insieme).</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>168</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1168</literal>
+      </binding>
+      <binding name="composer">
+        <literal>MOLTER, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>3 Concerti for 2 trumpets</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:K Hs.316/329/330</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Concerti No.16/31/32. Source in court library, Karlsruhe.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>167</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1167</literal>
+      </binding>
+      <binding name="composer">
+        <literal>MOLTER, J</literal>
+      </binding>
+      <binding name="date">
+        <literal>m18C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto for two trumpets in D</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:K Hs.309</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Both score (p.1/2) and parts (p.1/4). Concerto No.11. From the court library.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>175</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1175</literal>
+      </binding>
+      <binding name="composer">
+        <literal>TORELLI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Concerto con trombe</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.VII.7</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Concerto</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Arch. index G18. Trp. play only in quick 2nd and last mvt.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>178</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1178</literal>
+      </binding>
+      <binding name="composer">
+        <literal>COLONNA, G P</literal>
+      </binding>
+      <binding name="date">
+        <literal>1687</literal>
+      </binding>
+      <binding name="title">
+        <literal>Beatus vir a 5 voci</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. S.S.A.T.B. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>D:Mud S.2.1.60</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Motet</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Title read in full "... concertato con strumenti e tromba di G.P.C.".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>163</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1163</literal>
+      </binding>
+      <binding name="composer">
+        <literal>JACCHINI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>1690</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia con tromba</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.XII.5</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>A multi-sectional work: Grave (1 bar)-Presto-Grave-Solo intermezzo (Trp./Vlc.)-Grave-Allegro.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="service">
+        <uri>x-sparql-anything:location=http://www.open.ac.uk/Arts/minter/data.php?page=9,media-type=text/html</uri>
+      </binding>
+      <binding name="id">
+        <literal>180</literal>
+      </binding>
+      <binding name="catno">
+        <literal>A1180</literal>
+      </binding>
+      <binding name="composer">
+        <literal>ALDROUANDINI, G</literal>
+      </binding>
+      <binding name="date">
+        <literal>l17C</literal>
+      </binding>
+      <binding name="title">
+        <literal>Sinfonia con tromba</literal>
+      </binding>
+      <binding name="instruments">
+        <literal>Trp. Str. Cont.</literal>
+      </binding>
+      <binding name="source">
+        <literal>I:Bsp D.XI.12</literal>
+      </binding>
+      <binding name="genre">
+        <literal>Sinfonia</literal>
+      </binding>
+      <binding name="notes">
+        <literal>Indications: largo e spicco-allegro-adagio-allegro. Trp. only in allegro mvt. A sonata da chiesa format.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>
